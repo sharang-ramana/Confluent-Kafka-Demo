@@ -1,0 +1,1 @@
+Readme documentation yet to be constructed. Use the docker-compose up -d to create and run the sasl setup in docker

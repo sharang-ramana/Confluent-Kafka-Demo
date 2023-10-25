@@ -1,0 +1,1 @@
+Readme documentation yet to be constructed. Run the provision.sh script twice to create and run the kerberos setup in docker
